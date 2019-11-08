@@ -1,7 +1,7 @@
 # fishmaple-app
 一个极其业余的flutter应用（笔记、博客、扫码登录等），代码丑陋无比
 落地页（使用手机访问）：https://www.fishmaple.cn/fishapp.html
-
+下载地址：https://file.fishmaple.cn/fishMaple.apk
 
 界面展示
 <div style="text-align:center" align=center>
